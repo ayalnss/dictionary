@@ -89,5 +89,5 @@ async def word_of_the_day():
 
 
 
-client.run(' MTIyMDg3NzMzMjIyMzM2MTExNQ.GmjWn3.ny-ZtHPZy1HMy-3NIro5h5v2y2FTykMPx2rgRE')
+client.run(' ')
 
